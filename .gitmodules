@@ -1,0 +1,6 @@
+[submodule "libs/push"]
+	path = libs/push
+	url = git@github.com:Ulydev/push
+[submodule "libs/hump"]
+	path = libs/hump
+	url = git@github.com:vrld/hump
